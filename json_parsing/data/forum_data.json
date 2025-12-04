@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "meta": {
+      "total_results": 3,
+      "source": "StackOverflow-KW"
+    },
+    "data": {
+      "discussions": [
+        {
+          "id": 101,
+          "topic": "Error saat install Python",
+          "content": "Kenapa muncul error 'Path not found' saat saya ketik python di CMD?",
+          "author": {
+            "username": "koding_mula",
+            "level": "Newbie"
+          },
+          "tags": ["python", "installation"]
+        },
+        {
+          "id": 102,
+          "topic": "LangChain susah dimengerti",
+          "content": "Ada yang punya tutorial bahasa Indonesia soal JSONLoader? Saya bingung.",
+          "author": {
+            "username": "farhan_dev",
+            "level": "Expert"
+          },
+          "tags": ["langchain", "ai"]
+        },
+        {
+          "id": 103,
+          "topic": "Laptop panas",
+          "content": "Laptop saya bunyi kipasnya kencang saat training model YOLO.",
+          "author": {
+            "username": "gamer_tobat",
+            "level": "Intermediate"
+          },
+          "tags": ["hardware", "deep-learning"]
+        }
+      ]
+    }
+  }

@@ -1,0 +1,21 @@
+{
+    "data_toko": {
+      "komentar_pembeli": [
+        {
+          "username": "farhan_99",
+          "isi_review": "Laptopnya kencang buat coding, mantap!",
+          "bintang": 5
+        },
+        {
+          "username": "user_kece",
+          "isi_review": "Pengiriman agak lambat, tapi barang oke.",
+          "bintang": 4
+        },
+        {
+          "username": "hater123",
+          "isi_review": "Rusak pas sampai, kecewa berat.",
+          "bintang": 1
+        }
+      ]
+    }
+  }
